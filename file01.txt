@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello world
-update master
-=======
-hellocheck upadaste
->>>>>>> hellocheck
+hello world 
+it's file01.txt
